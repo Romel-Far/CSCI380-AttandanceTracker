@@ -1,0 +1,6 @@
+PyQt6
+opencv-python
+qrcode
+Pillow
+mysql-connector-python
+numpy
